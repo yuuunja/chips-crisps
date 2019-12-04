@@ -4,4 +4,4 @@
 
 ## Project 1
 This project is about.
-![Sample Image]()
+![Cutie](/images/KakaoTalk_Photo_2019-11-26-21-51-31.jpeg)
