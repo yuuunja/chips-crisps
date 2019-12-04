@@ -1,4 +1,1 @@
-# Extensions
-## Plugins: http://hexo.io/plugins/
-## Themes: http://hexo.io/themes/
-remote theme: magnetic 
+theme: minimal
